@@ -1,0 +1,9 @@
+{
+ "appId": "com.flowline.game",
+ "appName": "Flowline",
+ "webDir": "www",
+ "backgroundColor": "#090e15",
+ "server": {
+  "androidScheme": "https"
+ }
+}
